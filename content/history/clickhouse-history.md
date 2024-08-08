@@ -5,7 +5,6 @@ tags:
   - tool/clickhouse
   - component/olap
 ---
-# History of ClickHouse
 
 ## Introduction
 ClickHouse is a high-performance, columnar-oriented database management system (DBMS) designed for online analytical processing (OLAP) queries. Developed by Yandex, a Russian multinational corporation, ClickHouse is renowned for its speed and efficiency in handling large volumes of data.
