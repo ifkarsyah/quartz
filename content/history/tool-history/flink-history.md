@@ -5,7 +5,7 @@ tags:
   - tool/flink
   - component/stream-processing
 ---
-[[flink |Apache Flink]]'s history is rooted in academic research and has evolved into a prominent open-source [[stream-processing | stream processing]] framework widely used in the industry. Here's a timeline of key events in Flink's development:
+[[tool/overview/flink|Apache Flink]]'s history is rooted in academic research and has evolved into a prominent open-source [[stream-processing | stream processing]] framework widely used in the industry. Here's a timeline of key events in Flink's development:
 
 A decade ago, I stumbled upon an intriguing big data project called [Stratosphere](http://stratosphere.eu/). What immediately captured my interest was a particular section in its introduction: the ability to initiate a cluster on a single machine and execute MapReduce-based `WordCount` computations with just 3 lines of code! During a time dominated by Hadoop, installing and running a `WordCount` program would typically require several hours or even days. 
 
